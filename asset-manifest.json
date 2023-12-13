@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/JuanMauricioTic/proyecto122mau/static/css/main.b9c2ada2.css",
-    "main.js": "/JuanMauricioTic/proyecto122mau/static/js/main.3b22f37c.js",
-    "static/js/787.2f76afac.chunk.js": "/JuanMauricioTic/proyecto122mau/static/js/787.2f76afac.chunk.js",
-    "static/media/navid2.jpeg": "/JuanMauricioTic/proyecto122mau/static/media/navid2.65810250caddf29e8030.jpeg",
-    "static/media/navid7.jpeg": "/JuanMauricioTic/proyecto122mau/static/media/navid7.b497f6390c6855ded8e3.jpeg",
-    "static/media/navid5.jpeg": "/JuanMauricioTic/proyecto122mau/static/media/navid5.72f71e81bb5ef923dec9.jpeg",
-    "static/media/navid6.jpeg": "/JuanMauricioTic/proyecto122mau/static/media/navid6.6c13403fa5d70f5b8b40.jpeg",
-    "static/media/navid1.jpeg": "/JuanMauricioTic/proyecto122mau/static/media/navid1.c5909108907533546106.jpeg",
-    "static/media/navid4.jpeg": "/JuanMauricioTic/proyecto122mau/static/media/navid4.517ce1c02e99af3f6b59.jpeg",
-    "index.html": "/JuanMauricioTic/proyecto122mau/index.html",
-    "main.b9c2ada2.css.map": "/JuanMauricioTic/proyecto122mau/static/css/main.b9c2ada2.css.map",
-    "main.3b22f37c.js.map": "/JuanMauricioTic/proyecto122mau/static/js/main.3b22f37c.js.map",
-    "787.2f76afac.chunk.js.map": "/JuanMauricioTic/proyecto122mau/static/js/787.2f76afac.chunk.js.map"
+    "main.css": "/proyecto122mau/static/css/main.b9c2ada2.css",
+    "main.js": "/proyecto122mau/static/js/main.a38af059.js",
+    "static/js/787.2f76afac.chunk.js": "/proyecto122mau/static/js/787.2f76afac.chunk.js",
+    "static/media/navid2.jpeg": "/proyecto122mau/static/media/navid2.65810250caddf29e8030.jpeg",
+    "static/media/navid7.jpeg": "/proyecto122mau/static/media/navid7.b497f6390c6855ded8e3.jpeg",
+    "static/media/navid5.jpeg": "/proyecto122mau/static/media/navid5.72f71e81bb5ef923dec9.jpeg",
+    "static/media/navid6.jpeg": "/proyecto122mau/static/media/navid6.6c13403fa5d70f5b8b40.jpeg",
+    "static/media/navid1.jpeg": "/proyecto122mau/static/media/navid1.c5909108907533546106.jpeg",
+    "static/media/navid4.jpeg": "/proyecto122mau/static/media/navid4.517ce1c02e99af3f6b59.jpeg",
+    "index.html": "/proyecto122mau/index.html",
+    "main.b9c2ada2.css.map": "/proyecto122mau/static/css/main.b9c2ada2.css.map",
+    "main.a38af059.js.map": "/proyecto122mau/static/js/main.a38af059.js.map",
+    "787.2f76afac.chunk.js.map": "/proyecto122mau/static/js/787.2f76afac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9c2ada2.css",
-    "static/js/main.3b22f37c.js"
+    "static/js/main.a38af059.js"
   ]
 }
